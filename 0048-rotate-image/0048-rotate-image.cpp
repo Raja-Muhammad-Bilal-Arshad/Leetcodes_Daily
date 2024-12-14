@@ -1,31 +1,27 @@
 class Solution {
 public:
-    void transpose(vector<vector<int>>& m)
-    {
-        int n=m.size();
-        for(int i=0;i<n;i++)
+    void rotate(vector<vector<int>>& matrix) {
+        int n=matrix.size();
+        for(int r=0;r<n;r++)
         {
-            for(int j=0;j<n;j++)
+            for(int c=r;c<n;c++)
             {
-                if(j>i)
-                {
-                    swap(m[i][j],m[j][i]);
-                }
+                swap(matrix[r][c],matrix[c][r]);
             }
         }
-    }
-    void rotate(vector<vector<int>>& matrix) {
-        transpose(matrix);
-        int n=matrix.size();
-        int i=0,j=n-1;
-        while(i<j)
-        {
-            for(int k=0;k<n;k++)
+        for(int r=0;r<n;r++)
+        { int left=0, right=n-1;
+            while(left<right)
             {
-                swap(matrix[k][i],matrix[k][j]);
+                swap(matrix[r][left],matrix[r][right]);
+                left++;right--;
             }
-            i++;
-            j--;
+        }
+        for (int r = 0; r < n; r++) {
+            for (int c = 0; c < n; c++) {
+                cout << matrix[r][c] << " ";
+            }
+            cout << endl;
         }
     }
 };
