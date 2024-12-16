@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0217-contains-duplicate) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0048-rotate-image) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0054-spiral-matrix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
