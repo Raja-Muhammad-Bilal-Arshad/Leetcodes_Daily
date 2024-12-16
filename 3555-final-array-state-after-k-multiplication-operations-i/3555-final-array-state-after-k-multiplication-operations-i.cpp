@@ -7,12 +7,12 @@ public:
         for(int i=0;i<k;i++)
         {
             MIN=nums[0];index=0;
-            for(int i=0;i<n;i++)
+            for(int j=0;j<n;j++)
             {
-                if(MIN>nums[i])
+                if(MIN>nums[j])
                 {
-                    MIN=nums[i];
-                    index=i;
+                    MIN=nums[j];
+                    index=j;
                 }
             }
             nums[index]=MIN*multiplier;
