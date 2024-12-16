@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0054-spiral-matrix) |
+| [0217-contains-duplicate](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
