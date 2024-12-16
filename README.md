@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0217-contains-duplicate) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -60,14 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0217-contains-duplicate) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0217-contains-duplicate) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
