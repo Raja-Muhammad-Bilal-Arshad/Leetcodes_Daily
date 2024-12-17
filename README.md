@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0345-reverse-vowels-of-a-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/2300-construct-string-with-repeat-limit) |
 ## String Matching
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0217-contains-duplicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/2300-construct-string-with-repeat-limit) |
 ## Sorting
 |  |
 | ------- |
@@ -80,8 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0011-container-with-most-water) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/2300-construct-string-with-repeat-limit) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/2300-construct-string-with-repeat-limit) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Counting
+|  |
+| ------- |
+| [2300-construct-string-with-repeat-limit](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/2300-construct-string-with-repeat-limit) |
 <!---LeetCode Topics End-->
