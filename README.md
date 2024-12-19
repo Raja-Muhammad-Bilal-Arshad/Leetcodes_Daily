@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0217-contains-duplicate) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [0898-transpose-matrix](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0898-transpose-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0242-valid-anagram) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0011-container-with-most-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0780-max-chunks-to-make-sorted) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/2300-construct-string-with-repeat-limit) |
 ## Heap (Priority Queue)
 |  |
@@ -104,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0780-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
