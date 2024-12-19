@@ -1,15 +1,15 @@
 class Solution {
 public:
     int maxChunksToSorted(vector<int>& arr) {
-        int maxLeft = 0, chunks = 0;
-        
-        for (int i = 0; i < arr.size(); i++) {
-            maxLeft = max(maxLeft, arr[i]);
-            if (maxLeft == i) {
-                chunks++;
-            }
+        int max_seen=0,chunk=0;
+        for(int i=0;i<arr.size();i++)
+        {
+            if(max_seen<arr[i])
+            max_seen=arr[i];
+
+            if(max_seen<=i)
+            chunk++;
         }
-        
-        return chunks;
+        return chunk;
     }
 };
