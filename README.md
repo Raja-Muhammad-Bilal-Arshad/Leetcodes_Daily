@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Raja-Muhammad-Bilal-Arshad/Leetcodes_Daily/tree/master/0189-rotate-array) |
