@@ -2,18 +2,21 @@
 class Solution {
 public:
     int reverse(int x) {
-        int ans = 0; // Initialize the reversed number to 0
+        int reversed = 0;
         while (x != 0) {
-            int digit = x % 10; // Get the last digit of x
+            int digit = x % 10;  // Extract the last digit
+            x /= 10;             // Remove the last digit
             
-            // Check for overflow/underflow before updating ans
-            if ((ans > INT_MAX / 10) || (ans < INT_MIN / 10)) {
-                return 0; // Return 0 if reversing x would cause overflow/underflow
+            // Check for overflow before updating reversed
+            if (reversed > INT_MAX / 10 || (reversed == INT_MAX / 10 && digit > 7)) {
+                return 0;
+            }
+            if (reversed < INT_MIN / 10 || (reversed == INT_MIN / 10 && digit < -8)) {
+                return 0;
             }
             
-            ans = ans * 10 + digit; // Append the digit to the reversed number
-            x = x / 10; // Remove the last digit from x
+            reversed = reversed * 10 + digit; // Update the reversed number
         }
-        return ans; // Return the reversed number
+        return reversed;
     }
 };
